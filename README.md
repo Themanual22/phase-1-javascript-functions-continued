@@ -130,7 +130,7 @@ should see the following:
 
 ```js
 ƒ () {
-  console.log("Yet more razzling");
+   console.log("Yet more razzling");
 }
 ```
 
